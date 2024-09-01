@@ -1,0 +1,2 @@
+# sudoku
+first C project
